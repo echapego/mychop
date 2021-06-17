@@ -1,6 +1,6 @@
 using from './catalog-service';
 
-//annotate CatalogService.Products with @odata.draft.enabled;
+annotate CatalogService.Products with @odata.draft.enabled;
 
 annotate CatalogService.Products with @(
     UI: {

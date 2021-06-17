@@ -1,0 +1,6 @@
+ID,name,status,price,taxrate,currency,width,depth,height,sizeuom
+05-01,Mixer,Production,100,20,USD,20,30,40,sm
+05-02,Blender,Planning,40,5,EUR,30,20,10,sm
+03-01,Microwave,Planning,100,10,USD,60,50,45,sm
+03-09,Cooker,Development,120,12,EUR,100,100,120,sm
+04-29,Refrigerator,Planning,100,20,USD,120,70,250,sm
